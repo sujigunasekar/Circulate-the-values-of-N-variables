@@ -23,7 +23,7 @@ def circulate():
 ```
 ## Output:
 
-![circulate](https://user-images.githubusercontent.com/119559822/212458056-93b8b4e6-2ad6-4dd1-87fd-f67d4fce2558.png)
+![cir](https://user-images.githubusercontent.com/119559822/213412229-4550f0b3-9231-4b4c-bedc-3ce2a7c06ebd.png)
 
 
 ## Result:
